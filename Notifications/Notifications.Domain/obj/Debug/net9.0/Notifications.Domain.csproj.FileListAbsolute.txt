@@ -1,0 +1,12 @@
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\bin\Debug\net9.0\Notifications.Domain.deps.json
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\bin\Debug\net9.0\Notifications.Domain.dll
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\bin\Debug\net9.0\Notifications.Domain.pdb
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\obj\Debug\net9.0\Notifications.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\obj\Debug\net9.0\Notifications.Domain.AssemblyInfoInputs.cache
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\obj\Debug\net9.0\Notifications.Domain.AssemblyInfo.cs
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\obj\Debug\net9.0\Notifications.Domain.csproj.CoreCompileInputs.cache
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\obj\Debug\net9.0\Notifications.Domain.sourcelink.json
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\obj\Debug\net9.0\Notifications.Domain.dll
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\obj\Debug\net9.0\refint\Notifications.Domain.dll
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\obj\Debug\net9.0\Notifications.Domain.pdb
+C:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\Notifications\Notifications.Domain\obj\Debug\net9.0\ref\Notifications.Domain.dll
