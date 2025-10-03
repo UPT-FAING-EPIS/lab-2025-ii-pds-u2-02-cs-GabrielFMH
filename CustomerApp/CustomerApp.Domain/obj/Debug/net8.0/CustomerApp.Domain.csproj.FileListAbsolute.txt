@@ -1,0 +1,12 @@
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.deps.json
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.dll
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.pdb
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.AssemblyInfoInputs.cache
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.AssemblyInfo.cs
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.csproj.CoreCompileInputs.cache
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.sourcelink.json
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.dll
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\refint\CustomerApp.Domain.dll
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.pdb
+c:\repos\lab-2025-ii-pds-u2-02-cs-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\ref\CustomerApp.Domain.dll
